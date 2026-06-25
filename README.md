@@ -13,7 +13,7 @@
 
 ---
 
-🤖 **Contact Discord:** `@swagoverdosed`
+🤖 **Contact Discord:** `@y3kai`
 
 </div>
 
@@ -21,14 +21,12 @@
 
 <table align="center" border="0">
   <tr>
-    <!-- Блок со Spotify (заглушка-дизайн, пока не настроен скрипт) -->
     <td valign="top" width="50%">
       <h3>🎵 Recently Played</h3>
       <a href="https://spotify.com">
         <img src="https://azurewebsites.net" alt="Spotify" width="100%"/>
       </a>
     </td>
-    <!-- Блок со статистикой GitHub -->
     <td valign="top" width="50%">
       <h3>📊 GitHub Stats</h3>
       <img src="https://vercel.app" width="100%" />
@@ -41,6 +39,5 @@
 <br />
 
 <div align="center">
-  <!-- Здесь можно заменить ссылку на любую свою гифку или картинку -->
   <img src="https://giphy.com" width="600" alt="Anime GIF" />
 </div>
