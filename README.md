@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=y3kai&style=flat-square&color=blue" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=cvrsy2kai&style=flat-square&color=blue" alt="Views" />
 </p>
 
 <br />
@@ -25,15 +25,23 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td valign="top" align="center" width="400">
-      <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&count=5&unique=true" alt="Spotify recently played" />
+      <h4 align="center">🎵 Recently Played</h4>
+      <!-- 
+        Для Spotify виджета нужно:
+        1. Зайди на https://spotify-recently-played-readme.vercel.app
+        2. Авторизуйся через Spotify
+        3. Получи свой user ID и вставь ниже вместо YOUR_SPOTIFY_ID
+      -->
+      <a href="https://open.spotify.com">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ag2jxywenihlruha4stwnugod4&count=5&unique=true" alt="Spotify recently played" />
       </a>
     </td>
     <td width="30"></td>
     <td valign="top" align="center" width="400">
-      <img src="https://github-readme-stats.vercel.app/api?username=y3kai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="155" />
+      <h4 align="center">📊 GitHub Statistics</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=cvrsy2kai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="155" />
       <br /><br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y3kai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="140" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvrsy2kai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="140" />
     </td>
   </tr>
 </table>
