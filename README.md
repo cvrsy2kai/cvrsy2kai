@@ -1,36 +1,44 @@
-<h1 align="center">Yo, I'm y3kai!</h1>
+<p align="center">
+  <img src="https://vercel.app" width="100%" alt="Header Banner" />
+</p>
 
-###
+<p align="center">
+  <strong>Developing discord bots / sites / games (unity) / software (c++), contact ds: @y3kai</strong>
+</p>
 
-<p align="center">Developing discord bots / sites / games (unity) / software (c++), contact ds: @y3kai</p>
-
-<div align="center">
-  <img src="https://githubusercontent.com" height="50" alt="typescript logo" />
-  <img width="10" />
-  <img src="https://githubusercontent.com" height="50" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://githubusercontent.com" height="50" alt="nodejs logo" />
-  <img width="10" />
-  <img src="https://githubusercontent.com" height="50" alt="csharp logo" />
-  <img width="10" />
-  <img src="https://githubusercontent.com" height="50" alt="cplusplus logo" />
-</div>
+<p align="center">
+  <img src="https://komarev.com" alt="Views" />
+</p>
 
 <br />
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse;">
+<div align="center">
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="NodeJS" />
+  <img src="https://shields.io" alt="C#" />
+  <img src="https://shields.io" alt="C++" />
+</div>
+
+<br />
+<hr style="border: 1px solid #222;" />
+<br />
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; background: transparent;">
   <tr>
-    <td valign="top" align="center" width="400" style="border: none;">
-      <a href="https://spotify.com">
+    <td valign="top" align="center" width="420" style="border: none; padding: 10px;">
+      <h4 align="center">Recently Played</h4>
+      <a href="https://open.spotify.com/user/31ag2jxywenihlruha4stwnugod4">
         <img src="https://vercel.app" alt="Spotify recently played" />
       </a>
     </td>
-    <td width="30" style="border: none;"></td>
-    <td valign="top" align="center" width="400" style="border: none;">
+    <td width="40" style="border: none;"></td>
+    <td valign="top" align="center" width="420" style="border: none; padding: 10px;">
+      <h4 align="center">GitHub Statistics</h4>
       <a href="https://github.com">
         <img src="https://vercel.app" alt="GitHub stats" height="155" />
       </a>
-      <br/>
+      <br/><br/>
       <a href="https://github.com">
         <img src="https://vercel.app" alt="Top Langs" height="140" />
       </a>
@@ -39,7 +47,9 @@
 </table>
 
 <br />
+<hr style="border: 1px solid #222;" />
+<br />
 
 <div align="center">
-  <img height="300" src="https://giphy.com" alt="Footer GIF" />
+  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVjczJ2cnB0dXVxbTcycnE1MnE1ZXk4eXNiZmQ4MWRtNDUzaHcyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xR5cPyPoL5HVXSphqA/giphy.gif" alt="Footer GIF" />
 </div>
