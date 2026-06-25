@@ -41,5 +41,5 @@
 <br />
 
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/3c/60/01/3c600150646c93324fa514e49f87a53d.gif" alt="Footer GIF" />
+  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVjczJ2cnB0dXVxbTcycnE1MnE1ZXk4eXNiZmQ4MWRtNDUzaHcyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xR5cPyPoL5HVXSphqA/giphy.gif" alt="Footer GIF" />
 </div>
