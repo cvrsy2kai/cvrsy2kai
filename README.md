@@ -22,7 +22,7 @@
   <tr>
     <td valign="top" align="center" width="400" style="border: none;">
       <a href="https://open.spotify.com/user/31ag2jxywenihlruha4stwnugod4">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yh7bbln6omvygwvgavyjlt3iim&count=5&unique=true" alt="Spotify recently played" />
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ag2jxywenihlruha4stwnugod4&count=5&unique=true" alt="Spotify recently played" />
       </a>
     </td>
     <td width="30" style="border: none;"></td>
