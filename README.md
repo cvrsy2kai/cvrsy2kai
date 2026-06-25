@@ -5,15 +5,15 @@
 <p align="center">Developing discord bots / sites / games (unity) / software (c++), contact ds: @y3kai</p>
 
 <div align="center">
-  <img src="https://jsdelivr.net" height="50" alt="typescript logo" />
+  <img src="https://githubusercontent.com" height="50" alt="typescript logo" />
   <img width="10" />
-  <img src="https://jsdelivr.net" height="50" alt="javascript logo" />
+  <img src="https://githubusercontent.com" height="50" alt="javascript logo" />
   <img width="10" />
-  <img src="https://jsdelivr.net" height="50" alt="nodejs logo" />
+  <img src="https://githubusercontent.com" height="50" alt="nodejs logo" />
   <img width="10" />
-  <img src="https://jsdelivr.net" height="50" alt="csharp logo" />
+  <img src="https://githubusercontent.com" height="50" alt="csharp logo" />
   <img width="10" />
-  <img src="https://jsdelivr.net" height="50" alt="cplusplus logo" />
+  <img src="https://githubusercontent.com" height="50" alt="cplusplus logo" />
 </div>
 
 <br />
