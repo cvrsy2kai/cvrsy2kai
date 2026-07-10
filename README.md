@@ -31,15 +31,6 @@
 
   ---
 
-  ### 📊 GitHub Stats
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cvrsy2kai&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cvrsy2kai&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="48%"/>
-  </p>
-
-  ---
-
   ### 🛠 Current Focus
   🛠 Working on scalable full-stack applications | 🎨 Leveling up my UI/UX designs
 
